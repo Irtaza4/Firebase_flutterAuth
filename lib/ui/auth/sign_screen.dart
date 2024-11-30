@@ -33,8 +33,10 @@ class _SignupScreenState extends State<SignupScreen> {
     ).then((value) {
       loading= false;
     }).onError((error, stackTrace) {
-      loading = false;
       Utils().toastMessage(error.toString());
+      setState(() {
+        loading= false;
+      });
     });
   }
   @override
