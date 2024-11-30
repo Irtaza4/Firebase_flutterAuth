@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "21899928787",
+    "project_id": "testing-cli-2ae0b",
+    "storage_bucket": "testing-cli-2ae0b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21899928787:android:50666ef549ad320159a026",
+        "android_client_info": {
+          "package_name": "com.techease.firebase_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQxhXsJXNIgxaedureiJ53RWRjbX_YppQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
